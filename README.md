@@ -16,6 +16,11 @@
 | **Registration No** | 12306183     |
 | **Department**      | CSE          |
 
+### 🌐 **Connect with Me**
+
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/sayoun-parui-868b4228b/)
+- 🐦 [**X (Twitter)**](https://x.com/DriftNBlde)
+
 ---
 
 ## 📂 Project Structure
